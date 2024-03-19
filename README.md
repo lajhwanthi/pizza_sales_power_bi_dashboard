@@ -21,11 +21,11 @@ Data Preprocessing
 ### Key Metrics and Insights
 #### A. KPIs
 
-   ** - Total Revenue: Overall revenue generated from pizza sales.** 
-   ** - Average Order Value: The average value of each order placed.** 
-   ** - Total Pizzas Sold: Total number of pizzas sold during the specified period.** 
-   ** - Total Orders: Total number of orders received by ABC Pizzas.** 
-   ** - Average Pizzas Per Order: The average number of pizzas included in each order.** 
+   - Total Revenue: Overall revenue generated from pizza sales.
+   - Average Order Value: The average value of each order placed.
+   - Total Pizzas Sold: Total number of pizzas sold during the specified period.
+   - Total Orders: Total number of orders received by ABC Pizzas.
+   - Average Pizzas Per Order: The average number of pizzas included in each order.
 
 #### B. Daily Trends for Total Orders
 Insightful analysis of the daily trends in total orders received by ABC Pizzas.
